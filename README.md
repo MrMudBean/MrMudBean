@@ -4,7 +4,7 @@
 
 - 🔭 目前正在找工作
 - 🌱 当前正在学习： React 19.3 源码 
-- 📫 联系我：[Mr.MudBean 📮](Mr.MudBean@outlook.com)
+- 📫 联系我：[Mr.MudBean 📮](mailTo:Mr.MudBean@outlook.com)
 
 ### 🔧 技术栈
 
